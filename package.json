@@ -1,0 +1,17 @@
+{
+  "name": "gameserver",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Test Gameserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Yaaruu",
+  "license": "ISC",
+  "dependencies": {
+    "math3d": "^0.2.2",
+    "ws": "^7.4.3"
+  }
+}
